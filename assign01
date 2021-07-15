@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>QCC Assignment 1</title>
+    
+<style>
+table, th, td {
+  border: 2px solid black;
+  text-align: center;
+  background-color: yellow;
+  table-layout: fixed;
+  width: 150px;
+  white-space: nowrap;
+}
+</style>
+  </head>
+  <body>
+    
+<div style="border: 3px solid dodgerblue; padding: 30px">
+<h1> Assignment 1 - July 13th 2021 </h1>
+
+<p> Hey! It looks like a paragraph, but there is a block/box here too! Find the HTML element other than &lt;p&gt; and &lt;h&gt; </p>
+<strong> <a href="https://www.google.com/"
+style="color:#ff8095;"> This is a link to Google </a> </strong>
+<br> <br>
+<img src="https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2l0eXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="City Image" title="An Image of A City" width="300" height="200">
+<p> <em> Email me by clicking on <a href="johndoe@email.com">Jon Doe</a> <br>
+Visit us at: <br>
+<a href="https://disneyworld.disney.go.com/"> Disney World </a> <br>
+Box 678, Disneyland <br>
+USA </em> </p>
+
+<h1> Bonus! Create A Table </h1>
+<table>
+  <tr>
+    <th></th>
+    <th>width</th> 
+    <th>boder</th>
+    <th>bgcolor</th>
+  </tr>
+  <tr>
+    <th style="background-color:lightpink">Value1</th>
+    <td style="background-color:lightpink">="100"</td>
+    <td style="background-color:lightpink">="2"</td>
+    <td style="background-color:lightpink">="yellow"</td>
+  </tr>
+  <tr>
+    <th style="background-color:lightpink">Value2</th>
+    <td style="background-color:lightpink"><em>italic</em></td>
+    <td style="background-color:lightpink"><em>="2" or "2px"</em></td>
+    <td style="background-color:lightpink">="lightpink"</td>
+  </tr>
+</table>
+
+</div>
+  </body>
+</html>
